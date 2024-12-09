@@ -1,0 +1,6 @@
+pandas
+python-telegram-bot
+apscheduler
+pytz
+requests
+openpyxl
